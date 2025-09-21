@@ -8,7 +8,7 @@ I'm currently exploring various programming languages and technologies. Although
 
 ## Skills & Technologies
 
-c,cpp,html,css,django,nodejs,mongodb,git
+c,cpp,html,css,nodejs,git
 
 ## Top Projects
 
