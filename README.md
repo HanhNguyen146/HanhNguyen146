@@ -8,6 +8,7 @@ A developer in progress — currently building my skills in systems programming 
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -17,11 +18,8 @@ A developer in progress — currently building my skills in systems programming 
 
 ## Projects
 
-| Project | Description | Language |
-|--------|-------------|----------|
-| [LAB1-MCU_MPU](https://github.com/HanhNguyen146/LAB1-MCU_MPU) | MCU and MPU interfacing lab | C |
-| [AssignmentOS241](https://github.com/HanhNguyen146/AssignmentOS241) | Operating Systems course assignment | C |
-| [os](https://github.com/HanhNguyen146/os) | OS concepts exploration | — |
+<!-- PROJECTS_START -->
+<!-- PROJECTS_END -->
 
 ---
 
