@@ -1,52 +1,34 @@
-## Hi there! 👋
+# Hi, I'm Hanh Nguyen 👋
 
-I'm Hanh Nguyen, a passionate developer who loves tackling new challenges and building innovative solutions. Whether it's diving into the depths of programming languages or exploring the latest tech trends, I'm always eager to learn and grow!
+A developer in progress — currently building my skills in systems programming and low-level computing.
 
-## About Me
+---
 
-I'm currently exploring various programming languages and technologies. Although my specific role isn't defined yet, I am committed to enhancing my skills in software development and am excited about the journey ahead.
+## Skills
 
-## Skills & Technologies
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-c,cpp,html,css,nodejs,git
+---
 
-## Top Projects
+## Projects
 
-- [HanhNguyen146](https://github.com/HanhNguyen146/HanhNguyen146) 
-  A personal repository showcasing various projects. 
-  Stars: 0 | Language: N/A | Forks: 0 | Issues: 0  
+| Project | Description | Language |
+|--------|-------------|----------|
+| [LAB1-MCU_MPU](https://github.com/HanhNguyen146/LAB1-MCU_MPU) | MCU and MPU interfacing lab | C |
+| [AssignmentOS241](https://github.com/HanhNguyen146/AssignmentOS241) | Operating Systems course assignment | C |
+| [os](https://github.com/HanhNguyen146/os) | OS concepts exploration | — |
 
-- [LAB1-MCU_MPU](https://github.com/HanhNguyen146/LAB1-MCU_MPU) 
-  A project focused on MCU and MPU interfacing. 
-  Stars: 0 | Language: C | Forks: 0 | Issues: 0  
-
-- [AssignmentOS241](https://github.com/HanhNguyen146/AssignmentOS241) 
-  An assignment project for an Operating Systems course. 
-  Stars: 0 | Language: C | Forks: 0 | Issues: 0  
-
-- [os](https://github.com/HanhNguyen146/os) 
-  A project involving operating system concepts. 
-  Stars: 0 | Language: N/A | Forks: 0 | Issues: 0
+---
 
 ## GitHub Stats
 
-🌟 **Public Repositories**: 4  
-👥 **Followers**: 0  
-👤 **Following**: 0  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanhNguyen146&show_icons=true&theme=radical)
 
-## Recent Activity
+---
 
-- **Updated README.md** in [LAB1-MCU_MPU](https://github.com/HanhNguyen146/LAB1-MCU_MPU) - 2025-09-19  
-- **Created README.md** in [LAB1-MCU_MPU](https://github.com/HanhNguyen146/LAB1-MCU_MPU) - 2025-09-15  
-- **Created repository** [os](https://github.com/HanhNguyen146/os) - 2025-04-08  
-- **Pushed updates** to [os](https://github.com/HanhNguyen146/os) - 2025-04-08
-
-## Latest Blog Posts
-
-No blog posts available at this time.
-
-## Connect with Me
-
-{}
+> Always learning. Open to collaborating on interesting problems.
